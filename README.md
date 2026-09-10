@@ -1,6 +1,6 @@
 # JavaScript Logical Thinking & Conditional Workflows — Q71–80
 
-A hands-on implementation suite for Day 12 of the coding challenge (JS Day 6). This repository focuses on fundamental decision-making structures, multi-variable relational logic, compound condition checks, type conversions for length inspection, and mathematical percentage algorithms.
+A hands-on implementation suite for Day 12 of the coding challenge (JS Day 5). This repository focuses on fundamental decision-making structures, multi-variable relational logic, compound condition checks, type conversions for length inspection, and mathematical percentage algorithms.
 
 ---
 
